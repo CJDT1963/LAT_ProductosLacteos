@@ -7,7 +7,7 @@ import OrganizadordeClases.Yogurt;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("=============================================================");
+        System.out.println("ll =============================================================");
         System.out.println(" *******  LAT Productos Lacteos Artesanales  ******* ");
         System.out.println("=============================================================");
         System.out.println("Proceso de Producción");
